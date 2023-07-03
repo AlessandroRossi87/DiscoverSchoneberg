@@ -111,13 +111,15 @@ footer {
     color: black
 }
 
-.gallery {
+/* gallery */
+
+#gallery {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 3;
     column-gap: 0;
 }
 
-.gallery>img {
-    width: 150px;
+#gallery img {
+    width: 100%;
 }
