@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Sen&display=swap');
+
+body {
+    font-family: Sen, sans-serif;
+    font-weight: 400;
+    color: rgb(43, 40, 40)
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: Russo One, sans-serif;
+    font-weight: 400;
+}
+
 #hero-image {
     background: url('/images/hero-image.jpeg') center center;
     height: 600px;
@@ -8,13 +24,16 @@
 #hero-text {
     width: 300px;
     height: 200px;
-    background-color: orange;
+    background-color: rgb(98, 8, 25);
     bottom: 150px;
     left: 150px;
     padding-top: 150px;
     padding-left: 100px;
     position: absolute;
     opacity: 0.5;
+    color: white;
+    text-transform: uppercase;
+    font-size: 150%;
 }
 
 .pic-tour {
@@ -57,6 +76,7 @@
 
 .intro {
     width: 100%;
+    height: 250px;
     background-color: pink;
     text-align: center;
 }
