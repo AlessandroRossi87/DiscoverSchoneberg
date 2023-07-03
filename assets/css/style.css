@@ -1,15 +1,32 @@
-#text-left {
+.text-left {
+    width: 50%;
+    float: left;
+    height: 300px;
     background-color: blue;
 }
 
-#text-right {
+.text-right {
+    width: 50%;
+    float: right;
+    height: 300px;
     background-color: green;
 }
 
-#picture-left {
+.picture-left {
+    width: 50%;
+    float: left;
+    height: 300px;
     background-color: red;
 }
 
-#picture-right {
+.picture-right {
+    width: 50%;
+    float: right;
+    height: 300px;
     background-color: yellow;
+}
+
+.intro {
+    width: 100%;
+    background-color: pink;
 }
