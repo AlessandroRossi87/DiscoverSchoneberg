@@ -16,6 +16,18 @@
     position: absolute;
 }
 
+#pic-tour1 {
+    background: url("/images/annedore-leber.jpeg")
+}
+
+#pic-tour2 {
+    background: url("/images/rathaus.jpeg")
+}
+
+#pic-tour3 {
+    background: url("/images/queer.jpeg")
+}
+
 .text-left {
     width: 50%;
     float: left;
