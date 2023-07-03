@@ -110,3 +110,14 @@ footer {
     font-size: 200%;
     color: black
 }
+
+.gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+.gallery>img {
+    width: 150px;
+}
