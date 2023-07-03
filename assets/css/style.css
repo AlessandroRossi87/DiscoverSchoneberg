@@ -14,18 +14,15 @@
     padding-top: 150px;
     padding-left: 100px;
     position: absolute;
+    opacity: 0.5;
 }
 
-#pic-tour1 {
-    background: url("/images/annedore-leber.jpeg")
-}
-
-#pic-tour2 {
-    background: url("/images/rathaus.jpeg")
-}
-
-#pic-tour3 {
-    background: url("/images/queer.jpeg")
+.pic-tour {
+    width: 10px;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+    overflow: hidden;
 }
 
 .text-left {
