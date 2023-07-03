@@ -1,5 +1,5 @@
 #hero-image {
-    background: url('/images/hero-image.jpeg') no-repeat center center;
+    background: url('/images/hero-image.jpeg') center center;
     height: 600px;
     width: 100%;
     background-color: aqua;
@@ -18,7 +18,7 @@
 }
 
 .pic-tour {
-    width: 10px;
+    width: 300px;
     height: 100%;
     display: block;
     object-fit: contain;
