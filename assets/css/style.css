@@ -30,6 +30,7 @@
     float: left;
     height: 300px;
     background-color: blue;
+    text-align: center;
 }
 
 .text-right {
@@ -37,6 +38,7 @@
     float: right;
     height: 300px;
     background-color: green;
+    text-align: center;
 }
 
 .picture-left {
@@ -56,4 +58,26 @@
 .intro {
     width: 100%;
     background-color: pink;
+    text-align: center;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media>li {
+    display: inline;
+}
+
+.social-media i {
+    margin: 5%;
+    padding: 10%;
+    font-size: 200%;
+    color: black
 }
