@@ -10,7 +10,7 @@
 
 .top-menu {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     list-style: none;
     margin: 50px;
     text-decoration: none;
@@ -26,7 +26,7 @@
     color: rgb(98, 8, 25);
 }
 
-.topnav a:active {
+.topnav a.active {
     color: rgb(98, 8, 25);
 }
 
@@ -61,7 +61,7 @@ h4 {
     background: url('/assets/images/hero-image.jpeg') center center;
     height: 600px;
     width: 100%;
-    background-position: 0 30%;
+    background-position: 0 10%;
 }
 
 #hero-box {
@@ -85,6 +85,23 @@ h4 {
 #hero-box>h1 {
     text-transform: uppercase;
 }
+
+/* Welcome Section */
+
+.intro {
+    width: 100%;
+    height: 350px;
+    background-color: pink;
+    text-align: justify;
+    overflow: auto;
+    resize: both;
+}
+
+.intro>h2 {
+    text-align: center;
+}
+
+/* Tours section */
 
 .pic-tour {
     width: 300px;
@@ -124,19 +141,6 @@ h4 {
     float: right;
     height: 300px;
     background-color: yellow;
-}
-
-.intro {
-    width: 100%;
-    height: 350px;
-    background-color: pink;
-    text-align: justify;
-    overflow: auto;
-    resize: both;
-}
-
-.intro>h2 {
-    text-align: center;
 }
 
 /* footer */
@@ -201,6 +205,8 @@ footer {
     #hero-box {
         font-size: 75%;
         height: 15%;
+        bottom: 30px;
+        right: 30px;
     }
 }
 
@@ -209,5 +215,7 @@ footer {
     #hero-box {
         font-size: 50%;
         height: 10%;
+        bottom: 20px;
+        right: 20px;
     }
 }
