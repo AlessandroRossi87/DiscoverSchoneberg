@@ -50,7 +50,7 @@ h4 {
 }
 
 #hero-image {
-    background: url('/images/hero-image.jpeg') center center;
+    background: url('/assets/images/hero-image.jpeg') center center;
     height: 600px;
     width: 100%;
     background-position: 0 30%;
@@ -169,7 +169,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("/images/signup.jpeg");
+    background: url("/assets/images/signup.jpeg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -185,3 +185,11 @@ footer {
     left: 10%;
     padding: 30px;
 }
+
+/* media query */
+
+/* for larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {}
+
+/* for medium screens size from 950px wide and down */
+@media screen and (max-width: 950px) {}
