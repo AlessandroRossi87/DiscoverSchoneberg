@@ -61,7 +61,7 @@ h4 {
     background: url('/assets/images/hero-image.jpeg') center center;
     height: 600px;
     width: 100%;
-    background-position: 0 10%;
+    background-position: 10% 10%;
 }
 
 #hero-box {
@@ -95,6 +95,7 @@ h4 {
     text-align: justify;
     overflow: auto;
     resize: both;
+    padding: 5%;
 }
 
 .intro>h2 {
@@ -166,14 +167,25 @@ footer {
 
 /* gallery */
 
-#gallery {
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    column-gap: 0;
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
 }
 
-#gallery img {
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.row img {
     width: 100%;
 }
 
@@ -208,6 +220,12 @@ footer {
         bottom: 30px;
         right: 30px;
     }
+
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+
 }
 
 /* for medium screens size from 950px wide and down */
@@ -217,5 +235,10 @@ footer {
         height: 10%;
         bottom: 20px;
         right: 20px;
+    }
+
+    .column {
+        flex: 100%;
+        max-width: 100%;
     }
 }
