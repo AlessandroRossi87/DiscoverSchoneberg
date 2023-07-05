@@ -27,7 +27,7 @@
     text-decoration: none;
 }
 
-.topnav a.active {
+.top-menu a.active {
     color: rgb(98, 8, 25);
     text-decoration: underline;
 }
@@ -59,6 +59,8 @@ h4 {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #hero-box {
@@ -68,19 +70,22 @@ h4 {
     color: white;
     width: 40%;
     height: 25%;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 10px;
     background-color: rgb(98, 8, 25);
     opacity: 0.7;
-    bottom: 40px;
-    right: 40px;
     position: absolute;
-    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #hero-box>h1 {
     text-transform: uppercase;
+}
+
+#hero-box>h1,
+#hero-box>h4 {
+    padding: 0;
+    margin: 0;
 }
 
 /* Welcome Section */
@@ -88,12 +93,11 @@ h4 {
 .intro {
     width: 80%;
     height: 80%;
-    padding: 5%;
-    margin: 5%;
+    padding: 9% 5% 9% 5%;
+    margin: 1% 5% 1% 5%;
     background-color: pink;
     text-align: justify;
     overflow: auto;
-    resize: both;
 }
 
 .intro>h2 {
@@ -108,10 +112,9 @@ h4 {
 }
 
 .box {
-    width: 30%;
-    padding: 5%;
-    margin: 4%;
-    border: 1%;
+    width: 40%;
+    margin: 1% 5% 1% 5%;
+    border: 0;
     border-style: solid;
     border-color: rgb(98, 8, 25);
     align-items: center;
@@ -121,19 +124,37 @@ h4 {
 .box img {
     width: 100%;
     height: 100%;
+    border-radius: 25px;
     object-fit: cover;
 }
 
-.tour-1 {
-    background-color: red;
+.box h2 {
+    text-align: center;
 }
 
-.tour-2 {
-    background-color: blue;
+.box p {
+    text-align: justify;
 }
 
-.tour-3 {
-    background-color: green;
+#tour-1 {
+    background-color: rgb(119, 114, 114);
+    width: 30%;
+    margin: 10% 0% 10% 10%;
+    background-clip: padding-box;
+}
+
+#tour-2 {
+    background-color: rgb(111, 190, 230);
+    width: 30%;
+    margin: 10% 10% 10% 0%;
+    background-clip: padding-box;
+}
+
+#tour-3 {
+    background-color: rgb(201, 11, 201);
+    width: 30%;
+    margin: 10% 0% 10% 10%;
+    background-clip: padding-box;
 }
 
 /* footer */
@@ -204,10 +225,12 @@ footer {
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     #hero-box {
-        font-size: 75%;
-        height: 15%;
-        bottom: 30px;
-        right: 30px;
+        font-size: 100%;
+        height: 25%;
+        width: 50%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        display: block;
     }
 
     .column {
@@ -222,8 +245,10 @@ footer {
     #hero-box {
         font-size: 100%;
         height: 40%;
-        bottom: 20px;
-        right: 20px;
+        width: 60%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        display: block;
     }
 
     .column {
