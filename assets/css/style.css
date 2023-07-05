@@ -229,7 +229,11 @@ footer {
     .column {
         flex: 100%;
         max-width: 100%;
-        min-width: 400px;
+    }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
     }
 
     #flex-container {
