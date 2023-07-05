@@ -95,7 +95,7 @@ h4 {
     text-align: justify;
     overflow: auto;
     resize: both;
-    padding: 5%;
+    padding: 15px;
 }
 
 .intro>h2 {
@@ -104,44 +104,20 @@ h4 {
 
 /* Tours section */
 
-.pic-tour {
-    width: 300px;
-    height: 100%;
-    display: block;
-    object-fit: contain;
-    overflow: hidden;
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.text-left {
+.box {
     width: 50%;
-    float: left;
-    height: 300px;
-    background-color: blue;
-    text-align: center;
-    overflow: auto;
+    align-items: center;
+    justify-content: center;
 }
 
-.text-right {
+.box img {
     width: 50%;
-    float: right;
-    height: 300px;
-    background-color: green;
-    text-align: center;
-    overflow: auto;
-}
-
-.picture-left {
-    width: 50%;
-    float: left;
-    height: 300px;
-    background-color: red;
-}
-
-.picture-right {
-    width: 50%;
-    float: right;
-    height: 300px;
-    background-color: yellow;
+    height: auto;
 }
 
 /* footer */
@@ -159,8 +135,7 @@ footer {
 }
 
 .social-media i {
-    margin: 5%;
-    padding: 10%;
+    padding: 5%;
     font-size: 120%;
     color: black
 }
