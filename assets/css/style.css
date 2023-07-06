@@ -209,14 +209,14 @@ footer {
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    width: 20%;
+    margin: 5% 10% 0 0;
+    padding: 5%;
     color: white;
     background-color: rgb(98, 8, 25);
     opacity: 0.8;
-    width: 400px;
     position: absolute;
     left: 10%;
-    padding: 30px;
 }
 
 input[type=submit] {
@@ -231,7 +231,18 @@ input[type=submit] {
 }
 
 input[type=text],
-input[type=email] select {
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email],
+select {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -266,8 +277,10 @@ input[type=email] select {
 
     #flex-container {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
     }
+
+
 
     /* for medium screens size from 950px wide and down */
     @media screen and (max-width: 950px) {
@@ -303,26 +316,37 @@ input[type=email] select {
             margin: 10% 0 10% 10%;
         }
 
-        #tour-2 {
+        #tour-1 {
             order: 1;
         }
 
-        #tour-2-img {
+        #tour-1-img {
             order: 2;
         }
 
-        #tour-2 {
+        #tour-2-img {
             order: 4;
         }
 
-        #tour-2-img {
+        #tour-2 {
             order: 3;
         }
 
-        #tour-2 {
+        #tour-3 {
             order: 5;
         }
 
-        #tour-2-img {
+        #tour-3-img {
             order: 6;
+        }
+
+        .signup-form {
+            width: 80%;
+            margin: 5% 10% 0 0;
+            padding: 5%;
+            color: white;
+            background-color: rgb(98, 8, 25);
+            opacity: 0.8;
+            position: absolute;
+            left: 10%;
         }
