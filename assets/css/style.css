@@ -12,11 +12,11 @@
     display: flex;
     justify-content: space-between;
     list-style: none;
-    margin: 50px;
+    margin: 5%;
 }
 
 .top-menu a {
-    padding: 14px 16px;
+    padding: 1% 1% 1% 1%;
     font-size: 20px;
     color: rgb(43, 40, 40);
     text-decoration: none;
