@@ -137,7 +137,7 @@ h4 {
 }
 
 #tour-1 {
-    background-color: rgb(119, 114, 114);
+    background-color: rgb(120, 120, 120);
     width: 30%;
     margin: 10% 0% 10% 10%;
     background-clip: padding-box;
@@ -214,10 +214,21 @@ footer {
     color: white;
     background-color: rgb(98, 8, 25);
     opacity: 0.8;
-    max-width: 400px;
+    width: 400px;
     position: absolute;
     left: 10%;
     padding: 30px;
+}
+
+input[type=submit] {
+    background-color: rgb(43, 40, 40);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 /* media query */
