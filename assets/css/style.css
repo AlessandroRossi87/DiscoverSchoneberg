@@ -59,7 +59,7 @@ h4 {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 15px;
 }
 
@@ -114,9 +114,9 @@ h4 {
 }
 
 .box {
-    width: 38%;
+    width: 32%;
     margin: 1% 5% 1% 5%;
-    padding: 1% 1% 1% 1%;
+    padding: 4% 4% 4% 4%;
     background-clip: padding-box;
     align-items: center;
     justify-content: center;
@@ -258,8 +258,8 @@ select {
 @media screen and (max-width: 1200px) {
     #hero-box {
         font-size: 100%;
-        height: 25%;
-        width: 45%;
+        height: 20%;
+        width: 35%;
         padding-top: 15px;
         padding-bottom: 15px;
         display: block;
@@ -272,7 +272,7 @@ select {
 
     .row {
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
     }
 
     #flex-container {
@@ -280,73 +280,87 @@ select {
         flex-wrap: wrap;
     }
 
+    .signup-form {
+        width: 40%;
+        margin: 5% 10% 0 0;
+        padding: 5%;
+        color: white;
+        background-color: rgb(98, 8, 25);
+        opacity: 0.8;
+        position: absolute;
+        left: 10%;
+    }
+}
 
 
-    /* for medium screens size from 950px wide and down */
-    @media screen and (max-width: 950px) {
-        #hero-box {
-            font-size: 100%;
-            height: 40%;
-            width: 60%;
-            padding-top: 15px;
-            padding-bottom: 15px;
-            display: block;
-        }
+/* for medium screens size from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #hero-box {
+        font-size: 100%;
+        height: 30%;
+        width: 50%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        display: block;
+    }
 
-        .column {
-            flex: 100%;
-            max-width: 100%;
-        }
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
 
-        .row {
-            display: flex;
-            flex-wrap: wrap;
-        }
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
 
-        #flex-container {
-            display: flex;
-            flex-direction: column;
-        }
+    #flex-container {
+        display: flex;
+        flex-direction: column;
+    }
 
-        #tour-1,
-        #tour-2,
-        #tour-3,
-        .box {
-            width: 80%;
-            margin: 10% 0 10% 10%;
-        }
+    #tour-1,
+    #tour-2,
+    #tour-3,
+    .box {
+        width: 88%;
+        height: auto;
+        margin: 5% 5% 5% 5%;
+        padding: 1% 1% 1% 1%;
+    }
 
-        #tour-1 {
-            order: 1;
-        }
+    #tour-1 {
+        order: 1;
+    }
 
-        #tour-1-img {
-            order: 2;
-        }
+    #tour-1-img {
+        order: 2;
+    }
 
-        #tour-2-img {
-            order: 4;
-        }
+    #tour-2-img {
+        order: 4;
+    }
 
-        #tour-2 {
-            order: 3;
-        }
+    #tour-2 {
+        order: 3;
+    }
 
-        #tour-3 {
-            order: 5;
-        }
+    #tour-3 {
+        order: 5;
+    }
 
-        #tour-3-img {
-            order: 6;
-        }
+    #tour-3-img {
+        order: 6;
+    }
 
-        .signup-form {
-            width: 80%;
-            margin: 5% 10% 0 0;
-            padding: 5%;
-            color: white;
-            background-color: rgb(98, 8, 25);
-            opacity: 0.8;
-            position: absolute;
-            left: 10%;
-        }
+    .signup-form {
+        width: 60%;
+        margin: 5% 10% 0 0;
+        padding: 5%;
+        color: white;
+        background-color: rgb(98, 8, 25);
+        opacity: 0.8;
+        position: absolute;
+        left: 10%;
+    }
+}
