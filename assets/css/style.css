@@ -53,7 +53,7 @@ h4 {
 /* Hero section */
 
 #hero-image {
-    background: url("assets/images/hero-image.jpeg");
+    background: url("../images/hero-image.jpeg");
     height: 650px;
     background-position: center;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("assets/images/signup.jpeg");
+    background: url("../images/signup.jpeg");
     background-size: cover;
     background-position: center;
     height: 900px;
