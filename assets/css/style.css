@@ -279,21 +279,6 @@ select {
         display: block;
     }
 
-    .column {
-        flex: 50%;
-        max-width: 50%;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: column;
-    }
-
-    #flex-container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
     .signup-form {
         width: 40%;
         margin: 5% 10% 0 0;
