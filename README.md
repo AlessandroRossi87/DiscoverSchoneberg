@@ -78,9 +78,9 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 ### Pictures credits
 
 hero-image.jpeg [Tip-berlin.de](https://www.tip-berlin.de/wp-content/uploads/2021/02/imago0093698374h-viennaslide-scaled.jpg)
-annedore-leber.jpeg [Planet-wissen.de] (https://www.planet-wissen.de/geschichte/nationalsozialismus/attentat_auf_hitler/attentat-annedore-leber-100.html)
+annedore-leber.jpeg [Planet-wissen.de](https://www.planet-wissen.de/geschichte/nationalsozialismus/attentat_auf_hitler/attentat-annedore-leber-100.html)
 rathaus.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/76/Berlin_schoeneberg_belziger_26.10.2012_11-53-22_ShiftN.jpg)
-queer.jpg [Buzzfeed.de] (https://www.buzzfeed.de/news/pride-month-2022-an-staatlichen-gebaeuden-sollen-regenbogenflaggen-haengen-symbolpolitik-91493876.html)
+queer.jpg [Buzzfeed.de](https://www.buzzfeed.de/news/pride-month-2022-an-staatlichen-gebaeuden-sollen-regenbogenflaggen-haengen-symbolpolitik-91493876.html)
 maassenstr.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/3/3c/Maa%C3%9Fenstra%C3%9Fe_in_Berlin-Sch%C3%B6neberg.jpg)
 mietshaus.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/8/85/Grunewaldstra%C3%9Fe_78_-_Akazienstra%C3%9Fe_18.jpg)
 gasometer.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/74/Schoeneberg_albertstrasse_winter_16.02.2009_15-26-30.JPG)
@@ -97,9 +97,9 @@ winterfeldt.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/e/eb
 
 ### Content
 
-- Instructions on how to implement the sign up form, sign up text and sign up button was taken from W3
-- Instructions on how to create a responsive gallery was taken from W3 and
+- Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
+- Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
 
--Instructions on how to intregrate the favicon was taken from W3
+-Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
 
 ### Media
