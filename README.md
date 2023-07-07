@@ -16,38 +16,38 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 
 - **Navigation bar**
 
--The navigation bar is featured on all three pages and has a very easy design with links to Home, Gallery and Sign up page.
--This section enables the user to navigate easily between the three pages while always knowing on which page they are.
+- The navigation bar is featured on all three pages and has a very easy design with links to Home, Gallery and Sign up page.
+- This section enables the user to navigate easily between the three pages while always knowing on which page they are.
 
-SCREENSHOT NAVBAR
+![Navigation bar](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/navbar.png)
 
 - **The hero section**
 
 - The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website
 - The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg Metro station in Rudolph-Wilde-Park.
 
-SCREENSHOT HERO SECTION
+![Hero](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/hero.png)
 
 - **The intro section**
 
 - The intro section includes a welcoming paragraph with an inviting text about why we offer these tours and providing a catching description and short history of Schöneberg.
 - This section includes also the meeting location in bold text.
 
-SCREENSHOT INTRO SECTION
+![Intro](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/intro.png)
 
 - **The tours section**
 
 - The tour section shows the user the three different tours offered with a picture exemplifying the content of each tour and the start time of each tour.
 - Each tour is identified by the color, the icon representing the tour, which we will find again in the Sign up section.
 
-SCREENSHOT TOUR SECTION
+![Tours](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/tours.png)
 
 - **The footer**
 
 - The footer includes like to three social media platforms where Discover Schöneberg would be present. All links open in a new tab when clicked upon.
 - The footer is colored in one of the two main colors and gives a balance to the white navigation bar.
 
-SCREENSHOT FOOTER
+![Footer](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/footer.png)
 
 - **The gallery**
 
