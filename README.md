@@ -57,13 +57,13 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 ![Gallery](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/gallery.png)
 
 - **The Sign up page**
-  -This section allows the user to sign up to one of the tours. The user will need to provide first name, last name and an e-mail address.
+- This section allows the user to sign up to one of the tours. The user will need to provide first name, last name and an e-mail address.
 
 ![Sign up](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/signup.png)
 
 - **Future features**
 
--I would like to add the possibility to have the webpage in different languages. For the sake of this project all text is in English but I would like to add German also.
+- I would like to add the possibility to have the webpage in different languages. For the sake of this project all text is in English but I would like to add German also.
 
 ## Testing
 
@@ -91,15 +91,15 @@ viktoria-louise.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/
 kadewe.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/8/8a/2015-03-19_Berlin_KaDeWe_anagoria.JPG)
 rias.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/0/0a/Geb%C3%A4ude_des_RIAS_und_Deutschlandradio_Kultur_in_Berlin_Sch%C3%B6neberg_2012.jpg)
 rote-insel.jpeg [Wikimedia](https://de.wikipedia.org/wiki/Berlin-Sch%C3%B6neberg#/media/Datei:Rote_Insel19.JPG)
-dorfkirche.jpegm[Berlin.de](https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/ortsteile/schoeneberg/
+dorfkirche.jpeg [Berlin.de](https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/ortsteile/schoeneberg/
 ubahnnolli.jpeg [Wikimedia](https://en.wikipedia.org/wiki/Nollendorfplatz_%28Berlin_U-Bahn%29#/media/File:Berlin_-_U-Bahnhof_Nollendorfplatz,_13-12-2020_by_Marek_%C5%9Aliwecki.jpg)
 winterfeldt.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sch%C3%B6neberg_Winterfeldtplatz_Markt.JPG)
+signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_id=42623640)
 
 ### Content
 
 - Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
 - Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
-
--Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
+- Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
 
 ### Media
