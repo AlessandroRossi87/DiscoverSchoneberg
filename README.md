@@ -69,7 +69,7 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 
 ### Validator testing
 
-### Unfixed bugs
+This website have been tested with W3C Validation Service and no errors have been found.
 
 ## Deployment
 
