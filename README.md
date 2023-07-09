@@ -90,6 +90,8 @@ This webpage has been tested on all major browser available to me (Chrome, Safar
 
 During the first testing using the Lighthouse extension on Chrome I was receiving a low score for performance caused by the size of some images.
 
+![First Lighthouse report ](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/lighthouse1.png)
+
 I resolved this issue by resizing and compressing several images while also ensuring the consistency of their quality.
 
 ### Validator testing
