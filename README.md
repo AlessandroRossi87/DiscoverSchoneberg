@@ -20,7 +20,7 @@ I then created a wireframe diagram in Microsoft Word because it is a program I a
 ![Wireframe Gallery](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe2.png)
 ![Wireframe Sign up](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe3.png)
 
-Originally I had intended to make extensive use of pictures as background for the nav bar section, but I decided to backtrack from it when I started styling my webpage and went for a less ambitious but more clear design.
+Originally I had intended to make extensive use of pictures like using part of the hero image as a background for the nav bar section. Nevertheless I decided to backtrack from it when I started styling my webpage and went for a less ambitious but more clear design. I also decided to add an intro session with a presentation of who is behind the website and explain to the visitors why it is worth visiting Schöneberg with our free walking tours.
 
 ## Features
 
@@ -79,6 +79,10 @@ Originally I had intended to make extensive use of pictures as background for th
 
 ## Testing
 
+### Browser testing
+
+This webpage has been tested on all major browser available to me (Chrome, Safari, Firefox and Edge) and layout and functionality were ensured during all the testings.
+
 ### Validator testing
 
 - ## HTML
@@ -86,6 +90,10 @@ Originally I had intended to make extensive use of pictures as background for th
 
 - ## CSS
 - No errors were found when testing on [W3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Accessibility
+
+In order to enhance the accessibility of my webpage, also cosidered the targeted audience, I decided to make good use of ARIA-labels when deemed necessary. I have used a consistent but clear collor pallet which makes the text easy and pleasant to read.
 
 ## Deployment
 
@@ -115,7 +123,7 @@ viktoria-louise.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/
 kadewe.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/8/8a/2015-03-19_Berlin_KaDeWe_anagoria.JPG)
 rias.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/0/0a/Geb%C3%A4ude_des_RIAS_und_Deutschlandradio_Kultur_in_Berlin_Sch%C3%B6neberg_2012.jpg)
 rote-insel.jpeg [Wikimedia](https://de.wikipedia.org/wiki/Berlin-Sch%C3%B6neberg#/media/Datei:Rote_Insel19.JPG)
-dorfkirche.jpeg [Berlin.de](https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/ortsteile/schoeneberg/
+dorfkirche.jpeg [Berlin.de](https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/ortsteile/schoeneberg/)
 ubahnnolli.jpeg [Wikimedia](https://en.wikipedia.org/wiki/Nollendorfplatz_%28Berlin_U-Bahn%29#/media/File:Berlin_-_U-Bahnhof_Nollendorfplatz,_13-12-2020_by_Marek_%C5%9Aliwecki.jpg)
 winterfeldt.jpeg [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sch%C3%B6neberg_Winterfeldtplatz_Markt.JPG)
 signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_id=42623640)
@@ -125,3 +133,7 @@ signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_i
 - Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
 - Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
 - Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
+
+### Acknowledgements
+
+I would like to thank the Slack community, our Class Facilitator Kay, the Tutors and Mentors who have been providing me guiding, assistance and feedback.
