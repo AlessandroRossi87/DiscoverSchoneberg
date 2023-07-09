@@ -6,7 +6,10 @@ I then imagined how it would be to build a website for three of these free walki
 
 When I participated the walking tour myself I noticed that most of the participants were above the age of 60 so I imagined this website to have a sleek but easy layout, with clear text and pastel colors which makes it more accessible for people who are less familiar with the internet.
 
-The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
+The colors beside white used as theme for the website are the following:
+
+![rgb(43, 40, 40)](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/color1.png)
+![rgb(98, 8, 25)](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/color2.png)
 
 ![Responsive mockup](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/mockup.png)
 
@@ -28,54 +31,54 @@ Originally I had intended to make extensive use of pictures like using part of t
 
 - **Navigation bar**
 
-- The navigation bar is featured on all three pages and has a very easy design with links to Home, Gallery and Sign up page.
-- This section enables the user to navigate easily between the three pages while always knowing on which page they are.
+  - The navigation bar is featured on all three pages and has a very easy design with links to Home, Gallery and Sign up page.
+  - This section enables the user to navigate easily between the three pages while always knowing on which page they are.
 
 ![Navigation bar](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/navbar.png)
 
 - **The hero section**
 
-- The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website
-- The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg Metro station in Rudolph-Wilde-Park.
+  - The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website
+  - The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg Metro station in Rudolph-Wilde-Park.
 
 ![Hero](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/hero.png)
 
 - **The intro section**
 
-- The intro section includes a welcoming paragraph with an inviting text about why we offer these tours and providing a catching description and short history of Schöneberg.
-- This section includes also the meeting location in bold text.
+  - The intro section includes a welcoming paragraph with an inviting text about why we offer these tours and providing a catching description and short history of Schöneberg.
+  - This section includes also the meeting location in bold text.
 
 ![Intro](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/intro.png)
 
 - **The tours section**
 
-- The tour section shows the user the three different tours offered with a picture exemplifying the content of each tour and the start time of each tour.
-- Each tour is identified by the color, the icon representing the tour, which we will find again in the Sign up section.
+  - The tour section shows the user the three different tours offered with a picture exemplifying the content of each tour and the start time of each tour.
+  - Each tour is identified by the color, the icon representing the tour, which we will find again in the Sign up section.
 
 ![Tours](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/tours.png)
 
 - **The footer**
 
-- The footer includes like to three social media platforms where Discover Schöneberg would be present. All links open in a new tab when clicked upon.
-- The footer is colored in one of the two main colors and gives a balance to the white navigation bar.
+  - The footer includes like to three social media platforms where Discover Schöneberg would be present. All links open in a new tab when clicked upon.
+  - The footer is colored in one of the two main colors and gives a balance to the white navigation bar.
 
 ![Footer](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/footer.png)
 
 - **The gallery**
 
-- The gallery provides the user an idea of all the places and buildings that will be featured in the walking tours.
-- This section is valuable because it shows the user, who might be local residents, that many of the places familiar to them actually have an interesting history and is a pull-factor for them to participate.
+  - The gallery provides the user an idea of all the places and buildings that will be featured in the walking tours.
+  - This section is valuable because it shows the user, who might be local residents, that many of the places familiar to them actually have an interesting history and is a pull-factor for them to participate.
 
 ![Gallery](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/gallery.png)
 
 - **The Sign up page**
-- This section allows the user to sign up to one of the tours. The user will need to provide first name, last name and an e-mail address.
+  - This section allows the user to sign up to one of the tours. The user will need to provide first name, last name and an e-mail address.
 
 ![Sign up](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/signup.png)
 
 - **Future features**
 
-- I would like to add the possibility to have the webpage in different languages. For the sake of this project all text is in English but I would like to add German also.
+  - I would like to add the possibility to have the webpage in different languages. For the sake of this project all text is in English but I would like to add German also.
 
 ## Testing
 
@@ -86,10 +89,11 @@ This webpage has been tested on all major browser available to me (Chrome, Safar
 ### Validator testing
 
 - ## HTML
-- No errors were found when testing on [W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html)
+
+  - No errors were found when testing on [W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html)
 
 - ## CSS
-- No errors were found when testing on [W3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when testing on [W3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Accessibility
 
