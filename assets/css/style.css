@@ -141,7 +141,7 @@ h4 {
 }
 
 #tour-1 {
-    background-color: rgb(196, 196, 196);
+    background-color: rgb(211, 211, 211);
     width: 30%;
     margin: 10% 0 10% 10%;
 }
@@ -223,9 +223,9 @@ footer {
 }
 
 input[type=submit] {
-    background-color: rgb(43, 40, 40);
+    background-color: rgb(43, 40, 40, 1);
     border: none;
-    color: white;
+    color: rgb(255, 255, 255, 1);
     padding: 16px 32px;
     border-radius: 10px;
     text-decoration: none;
@@ -240,7 +240,7 @@ select {
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(204, 204, 204);
     border-radius: 4px;
     box-sizing: border-box;
 }
