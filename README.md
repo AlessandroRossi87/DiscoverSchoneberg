@@ -10,6 +10,18 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 
 ![Responsive mockup](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/mockup.png)
 
+## Design process
+
+The first step in the designing process was to research interesting designs to draw inspiration from. I discovered a website called One Page Love and found this template called [MNTN](https://mntn.krystonschwarze.com/). I really liked the way the three sections alternate text and pictures. I decided I would try to reproduce the same layout for my webpage.
+
+I then created a wireframe diagram in Microsoft Word because it is a program I am very familiar with:
+
+![Wireframe Home](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe1.png)
+![Wireframe Gallery](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe2.png)
+![Wireframe Sign up](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe3.png)
+
+Originally I had intended to make extensive use of pictures as background for the nav bar section, but I decided to backtrack from it when I started styling my webpage and went for a less ambitious but more clear design.
+
 ## Features
 
 ### Existing features
@@ -69,9 +81,21 @@ The colors used as theme for the website are rgb(98, 8, 25) and rgb(43, 40, 40)
 
 ### Validator testing
 
-This website have been tested with W3C Validation Service and no errors have been found.
+- ## HTML
+- No errors were found when testing on [W3](https://validator.w3.org/nu/?doc=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html)
+
+- ## CSS
+- No errors were found when testing on [W3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
+
+The website was deployed on GitHub by following these steps:
+
+- I went to the GitHub depository
+- I clicked on "Settings" and then selected "main" in the "Default branch"
+- I clicked on "Pages" and found the link to the deployed website.
+
+Here is the link to the live website: https://alessandrorossi87.github.io/project1discoverschoneberg/index.html
 
 ## Credits
 
@@ -101,5 +125,3 @@ signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_i
 - Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
 - Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
 - Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
-
-### Media

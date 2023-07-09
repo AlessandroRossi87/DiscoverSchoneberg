@@ -98,12 +98,8 @@ h4 {
     padding: 9% 5% 9% 5%;
     margin: 1% 5% 1% 5%;
     background-color: pink;
-    text-align: justify;
-    overflow: auto;
-}
-
-.intro>h2 {
     text-align: center;
+    overflow: auto;
 }
 
 /* Tours section */
@@ -182,7 +178,7 @@ footer {
     color: white;
 }
 
-/* gallery */
+/* gallery page */
 
 .row {
     display: flex;
@@ -204,7 +200,7 @@ footer {
     width: 100%;
 }
 
-/* form section */
+/* sign up page */
 
 .form-section {
     clear: left;
