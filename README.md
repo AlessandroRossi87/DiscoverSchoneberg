@@ -86,6 +86,12 @@ Originally I had intended to make extensive use of pictures like using part of t
 
 This webpage has been tested on all major browser available to me (Chrome, Safari, Firefox and Edge) and layout and functionality were ensured during all the testings.
 
+### Lighthouse testing
+
+During the first testing using the Lighthouse extension on Chrome I was receiving a low score for performance caused by the size of some images.
+
+I resolved this issue by resizing and compressing several images while also ensuring the consistency of their quality.
+
 ### Validator testing
 
 - ## HTML
@@ -95,7 +101,7 @@ This webpage has been tested on all major browser available to me (Chrome, Safar
 - ## CSS
   - No errors were found when testing on [W3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falessandrorossi87.github.io%2Fproject1discoverschoneberg%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-### Accessibility
+## Accessibility
 
 In order to enhance the accessibility of my webpage, also cosidered the targeted audience, I decided to make good use of ARIA-labels when deemed necessary. I have used a consistent but clear collor pallet which makes the text easy and pleasant to read.
 
