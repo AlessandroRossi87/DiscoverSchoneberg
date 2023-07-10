@@ -281,7 +281,6 @@ select {
     }
 }
 
-
 /* for medium screens size from 950px wide and down */
 @media screen and (max-width: 950px) {
     #hero-box {
