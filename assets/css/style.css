@@ -158,6 +158,15 @@ h4 {
     margin: 10% 0 10% 10%;
 }
 
+/* video section */
+
+#video {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+}
+
 /* footer */
 
 footer {
