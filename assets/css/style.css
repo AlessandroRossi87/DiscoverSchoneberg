@@ -160,11 +160,23 @@ h4 {
 
 /* video section */
 
-#video {
+.video {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.responsive-iframe {
     position: absolute;
-    margin: auto;
-    top: 50%;
-    left: 50%;
+    top: 0;
+    left: 0;
+    bottom: 5%;
+    right: 0;
+    width: 80%;
+    height: 80%;
+    border: none;
+    padding: 10%;
 }
 
 /* footer */
@@ -356,5 +368,11 @@ select {
 
     .signup-form {
         width: 60%;
+    }
+
+    .responsive-iframe {
+        width: 90%;
+        height: 90%;
+        padding: 5%;
     }
 }
