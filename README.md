@@ -57,6 +57,10 @@ Originally I had intended to make extensive use of pictures like using part of t
 
 ![Tours](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/tours.png)
 
+- **The video**
+
+  - Schöneberg has been home to several iconic historical figures and it is were iconic Marlene Dietrich was born. I decided to include this tune because in this song she sings of all the most important places in the neighborhood.
+
 - **The footer**
 
   - The footer includes like to three social media platforms where Discover Schöneberg would be present. All links open in a new tab when clicked upon.
@@ -145,6 +149,7 @@ signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_i
 - Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
 - Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
 - Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
+- Instructions on how to apply responsive design to iframe [W3](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
 
 ### Acknowledgements
 
