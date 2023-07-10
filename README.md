@@ -38,7 +38,8 @@ Originally I had intended to make extensive use of pictures like using part of t
 
 - **The hero section**
 
-  - The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website
+  - The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website.
+  - On very wide screen I decided to let the hero text be on the top half of the hero box for stylistic reasons.
   - The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg Metro station in Rudolph-Wilde-Park.
 
 ![Hero](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/hero.png)
