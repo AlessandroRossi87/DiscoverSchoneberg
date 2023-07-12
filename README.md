@@ -85,7 +85,7 @@ Originally I had intended to make extensive use of pictures, for example using p
 
 ### Browser testing
 
-This webpage has been tested on all major browser available to me (Chrome, Safari, Firefox and Edge) and layout and functionality were ensured during all the testings.
+This webpage has been tested on all major browser available to me (Chrome, Safari, Firefox and Edge) and layout and functionality were ensured during all the testings. All links open in a new tab and the sign up form works properly and the submit button brings to the CI form dump website.
 
 ### Lighthouse testing
 
@@ -94,6 +94,12 @@ During the first testing using the Lighthouse extension on Chrome I was receivin
 ![First Lighthouse report ](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/lighthouse1.png)
 
 I resolved this issue by resizing and compressing several images while also ensuring the consistency of their quality.
+
+![Second Lighthouse report ](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/lighthouse2.png)
+
+Nevertheless I am still receiving a low score on performance. When the Lighthouse report was run on a different computer though, it received a much higher score. After much research I discovered this might have something to do with my internet connection and/or the performance of my own computer. For reference I have included the Lighthouse report from my fellow student Adriana Stoichita.
+
+![Third Lighthouse report ](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/lighthouse3.png)
 
 ### Validator testing
 
@@ -149,4 +155,4 @@ signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_i
 
 ### Acknowledgements
 
-I would like to thank the Slack community, our Class Facilitator Kay, the Tutors and Mentors who have been providing me guiding, assistance and feedback.
+I would like to thank the Slack community, my fellow students particularly Adriana, Andreas, Herbert, Daniel, Kai Michael, our class facilitator Kay, the tutors and mentors who have been providing me guiding, assistance and feedback.
