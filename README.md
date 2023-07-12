@@ -146,7 +146,6 @@ signup.jpeg [Adobe Stock](https://stock.adobe.com/de/search?k=pallasseum&asset_i
 - Instructions on how to implement the sign up form, sign up text and sign up button was taken from [W3](https://www.w3schools.com/html/html_forms.asp)
 - Instructions on how to create a responsive gallery was taken from [W3](https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery)
 - Instructions on how to intregrate the favicon was taken from [W3](https://www.w3schools.com/html/html_favicon.asp)
-- Instructions on how to apply responsive design to iframe [W3](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
 
 ### Acknowledgements
 
