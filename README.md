@@ -62,6 +62,8 @@ Originally I had intended to make extensive use of pictures like using part of t
 
   - Schöneberg has been home to several iconic historical figures and it is were iconic Marlene Dietrich was born. I decided to include this tune because in this song she sings of all the most important places in the neighborhood.
 
+![Video](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/video.png)
+
 - **The footer**
 
   - The footer includes like to three social media platforms where Discover Schöneberg would be present. All links open in a new tab when clicked upon.
