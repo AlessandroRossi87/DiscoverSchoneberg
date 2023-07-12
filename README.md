@@ -23,7 +23,7 @@ I then created a wireframe diagram in Microsoft Word because it is a program I a
 ![Wireframe Gallery](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe2.png)
 ![Wireframe Sign up](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/wireframe3.png)
 
-Originally I had intended to make extensive use of pictures like using part of the hero image as a background for the nav bar section. Nevertheless I decided to backtrack from it when I started styling my webpage and went for a less ambitious but more clear design. I also decided to add an intro session with a presentation of who is behind the website and explain to the visitors why it is worth visiting Schöneberg with our free walking tours.
+Originally I had intended to make extensive use of pictures, for example using part of the hero image as a background for the nav bar section. Nevertheless I decided to backtrack from it when I started styling my webpage and went for a less ambitious but more clear design. I also decided to add an intro session with a presentation of who is behind the website and explain to the visitors why it is worth visiting Schöneberg with our free walking tours.
 
 ## Features
 
@@ -40,7 +40,7 @@ Originally I had intended to make extensive use of pictures like using part of t
 
   - The hero section includes a photograph with a text overlay with the title of the website in uppercase and the description of the activities offered on this website.
   - On very wide screen I decided to let the hero text be on the top half of the hero box for stylistic reasons.
-  - The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg Metro station in Rudolph-Wilde-Park.
+  - The section gives a clear idea of what to expect scrolling down the website and has a beautiful picture of the iconic Rathaus Schöneberg (Schöneberg City Hall) Metro station in Rudolph-Wilde-Park.
 
 ![Hero](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/hero.png)
 
@@ -57,12 +57,6 @@ Originally I had intended to make extensive use of pictures like using part of t
   - Each tour is identified by the color, the icon representing the tour, which we will find again in the Sign up section.
 
 ![Tours](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/tours.png)
-
-- **The video**
-
-  - Schöneberg has been home to several iconic historical figures and it is were iconic Marlene Dietrich was born. I decided to include this tune because in this song she sings of all the most important places in the neighborhood.
-
-![Video](https://github.com/AlessandroRossi87/project1discoverschoneberg/blob/main/assets/readmeimgs/video.png)
 
 - **The footer**
 

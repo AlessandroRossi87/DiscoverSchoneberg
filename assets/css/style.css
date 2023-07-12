@@ -158,27 +158,6 @@ h4 {
     margin: 10% 0 10% 10%;
 }
 
-/* video section */
-
-.video {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-
-.responsive-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 5%;
-    right: 0;
-    width: 80%;
-    height: 80%;
-    border: none;
-    padding: 10%;
-}
-
 /* footer */
 
 footer {
@@ -368,11 +347,5 @@ select {
 
     .signup-form {
         width: 60%;
-    }
-
-    .responsive-iframe {
-        width: 90%;
-        height: 90%;
-        padding: 5%;
     }
 }
