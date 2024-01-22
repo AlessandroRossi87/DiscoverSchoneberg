@@ -122,7 +122,7 @@ The website was deployed on GitHub by following these steps:
 - I clicked on "Settings" and then selected "main" in the "Default branch"
 - I clicked on "Pages" and found the link to the deployed website.
 
-Here is the link to the live website: https://alessandrorossi87.github.io/project1discoverschoneberg/index.html
+Here is the link to the live website: https://alessandrorossi87.github.io/DiscoverSchoneberg/
 
 ## Credits
 
