@@ -6,7 +6,7 @@ I then imagined how it would be to build a website for three of these free walki
 
 When I participated the walking tour myself I noticed that most of the participants were above the age of 60 so I imagined this website to have a sleek but easy layout, with clear text and pastel colors which makes it more accessible for people who are less familiar with the internet.
 
-Here is the link to the live website: https://alessandrorossi87.github.io/DiscoverSchoneberg-HTMLCSS/
+Here is the link to the [live website](https://alessandrorossi87.github.io/DiscoverSchoneberg/)
 
 The colors beside white used as theme for the website are the following:
 
